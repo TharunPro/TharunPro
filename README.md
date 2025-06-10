@@ -1,15 +1,15 @@
 ## About me
 
 <!-- TO DO: add a picture about me-->
-Hi, I'm Tharun. I am a 14 year old from Germany who really enjoys coding, cubing and playing chess!
+Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is currently studying and learning Python to make small projects like games, boring tasks and more! 
 <details>
 <summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Java      |
-|     3| Scratch   |
+|     2| Python    |
+|     3| Python    |
 
 </details>
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate with other people on GitHub.
 - 💻 I'm looking forward to learning more programming languages and improve my coding skills!
 - ⚡ My other hobbies are chess and speedcubing!
+- 💪 I'll try to post my projects on GitHub for you guys to see!
 
