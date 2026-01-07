@@ -1,15 +1,15 @@
 ## About me
 
 <!-- TO DO: add a picture about me-->
-Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is currently studying and learning Python to make small projects like games, boring tasks and more! 
+Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is currently studying and learning Python to make small projects like games, automate boring tasks and more! 
 <details>
-<summary>My top languages</summary>
+<summary>My top Python libraries</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| Python    |
-|     3| Python    |
+|     1| Pandas    |
+|     2| Numpy     |
+|     3| Matplotlib|
 
 </details>
 
@@ -18,10 +18,10 @@ Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is current
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a game in Python.
-- 🌱 I’m currently learning Python from Mosh's Course!
+- 🔭 My Goal is to become a really good Python ML Builder.
+- 🌱 I’m currently buiding small projects using Python Libraries!
 - 👯 I’m looking to collaborate with other people on GitHub.
 - 💻 I'm looking forward to learning more programming languages and improve my coding skills!
 - ⚡ My other hobbies are chess and speedcubing!
-- 💪 I'll try to post my projects on GitHub for you guys to see!
+- 💪 I'll post my projects on GitHub for you guys to see!
 
