@@ -1,7 +1,7 @@
 ## About me
 
 <!-- TO DO: add a picture about me-->
-Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is currently studying and learning Python to make small projects like games, automate boring tasks and more! 
+Hi, I'm Tharun. I am a 15 year old student from Karlsruhe Germany who is currently studying and learning HTML, CSS, JS to make small projects like games and more on a website! 
 <details>
 <summary>My top Python libraries</summary>
 
@@ -9,7 +9,7 @@ Hi, I'm Tharun. I am a 14 year old student from Karlsruhe Germany who is current
 |-----:|-----------|
 |     1| Pandas    |
 |     2| Numpy     |
-|     3| Matplotlib|
+|     3| Javascript|
 
 </details>
 
