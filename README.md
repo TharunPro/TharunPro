@@ -1,26 +1,18 @@
-## About me
+### 👋 About Me
 
-<!-- TO DO: add a picture about me-->
-Hi, I'm Tharun. I am a 15 year old student from Germany who is currently studying and learning Python to make cool programs and other projects! 
-<details>
-<summary>My top Python libraries</summary>
+Hi, I'm Tharun — a 15-year-old student from Germany who loves building things with code.
+ 
+- 🔭 Currently focused on becoming a strong **Python Developer**
+- 📚 Looking forward to learning new languages and leveling up my skills
+- ♟️ Outside of code: chess and speedcubing
+- 📂 All my projects get pushed here — feel free to check them out!
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Pandas    |
-|     2| Numpy     |
-|     3| MatPlotLib|
+### 🚀 Currently Building
 
-</details>
+**[CustomJarvis](https://github.com/TharunPro/CustomJarvis)** — a personal AI voice assistant built in Python, inspired by Iron Man's J.A.R.V.I.S.
 
-<!--
-**TharunPro/TharunPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Tools
 
-Here are some ideas to get you started:-->
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
 
-- 🔭 My Goal is to become a really good Python Developer.
-- 🌱 I’m currently buiding small projects using Python Libraries!
-- 💻 I'm looking forward to learning more programming languages and improve my coding skills!
-- ⚡ My other hobbies are chess and speedcubing!
-- 💪 I'll post my projects on GitHub for you guys to see!
 
